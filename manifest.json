@@ -1,0 +1,71 @@
+{
+    "short_name":"ECDC",
+    "name":"El Callejon Del Crimen",
+    "start_url":"index.html",
+    "background_color":"#839192",
+    "theme_color":"#839192",
+    "display":"standalone",
+    "orientacion":"portrait",
+    "icons": [
+        {
+            "src": "img/Logos/72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "img/Logos/96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "img/Logos/128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "img/Logos/144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "img/Logos/152x152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "img/Logos/192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/Logos/384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "img/Logos/512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "img/iconos-ios/640x1336.png",
+            "type": "image/png",
+            "sizes": "640x1336"
+        },
+        {
+            "src": "img/iconos-ios/750x1334.png",
+            "type": "image/png",
+            "sizes": "750x1134"
+        },
+        {
+            "src": "img/iconos-ios/1125x2636.png",
+            "type": "image/png",
+            "sizes": "1125x2636"
+        },
+        {
+            "src": "img/iconos-ios/1242x2208.png",
+            "type": "image/png",
+            "sizes": "1242x2208"
+        }
+      ]
+}
