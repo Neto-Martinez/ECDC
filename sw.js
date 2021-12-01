@@ -27,7 +27,7 @@ self.addEventListener('install', evento=>{
                 'js/menu.js',
                 'js/lightbox.js',
                 'js/app.js',
-                'offline.html'
+                'offline.html',
 
 
             ]);
